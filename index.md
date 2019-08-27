@@ -18,19 +18,19 @@
 
 #### Thursday 5th
 - How to Write Articles:
- -  5 Ws / 1 H
- -  AP Style
- -  Inverted Pyramid
+ * 5 Ws / 1 H
+ * AP Style
+ * Inverted Pyramid
  
 ### Week Three
 #### Tuesday 10th
 - How to Write Articles: 
-  - Lede exercises
+  * Lede exercises
   
 #### Thursday 12th
 - How to Write Articles: 
-  - Fact Checking
-  - Intro to Box
+  * Fact Checking
+  * Intro to Box
   
 ### Week Four - Articles due *Monday 16th*, Revisions due *Wednesday 18th*
 #### Tuesday 17th
